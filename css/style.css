@@ -1,0 +1,43 @@
+#main {
+    width: 30rem;
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+    float: left;
+}
+
+#Tasti {
+    margin-left: 10rem;
+    margin-top: 11.5rem;
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+.col button {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 1.3rem;
+    margin-top: 1.3rem;
+}
+
+.col {
+    justify-content: space-between;
+}
+
+#call {
+   margin-left: 12.1rem;
+   margin-bottom: 1.2rem; 
+  
+}
+
+#call button {
+    font-size: 1.5rem;
+    border-radius: 100%;
+    justify-content: space-around;
+}
+
+/* #display {
+    margin-top:7.5rem ;
+    margin-left:9.7rem ;
+} */
